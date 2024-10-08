@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5be75ce;
+}
+
+.zonabienvenida{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.subienvenido {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.menudejuegos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.carta{
+    background-color: #f8dadac5;
+    border: 2px solid #f8a4a4;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    width: 250px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.carta h2 {
+    justify-content: center;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.carta a {
+    text-decoration: none;
+    align-items: center;
+    color: #337ab7;
+}
+
+.carta a:hover {
+    color: #23527c;
+}
+
+.bunni {
+    background-color: #199319;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

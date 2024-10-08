@@ -1,0 +1,32 @@
+desarrollar un juego de adivinar en web
+    html-css-js
+generar el numero de forma aleatoria
+el usuario ingresa el numero
+mostrar el numero de intentos del usuario
+dar pistas (si el numero es mayor o no)
+indica al usuario cuando adivine el numero
+permitir al usuario reiniciar el juego    
+
+numero aleatoria
+let numAleatorio = Math.floor(Math.random() * 100)+1;
+console.log(numAleatorio);
+(esto juego 2)
+
+
+
+crear un sition con 3 juegos
+primer juego piedra tijeas papel 2 jugadores
+-> ingrese el nombre del jugador 1 y jugador 2
+-> saber el turno del jugador y mostrar quien gano
+
+2 juego adivina un numero
+->lo de arriba
+
+3 juego memorizeeeeeeeeeeeeeeeeeeeeee
+->niveles basico-medio-dificil
+-> un tiempo para memorizar
+-> basico 3 elementos 20 seg
+-> medio 4 elementos 10 seg
+-> dificil 5 elementos 5 seg
+
+el usuario seleciona la dificultad/ niveles
